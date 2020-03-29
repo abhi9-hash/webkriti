@@ -6,9 +6,6 @@ const app=express()
 const filter=require('bad-words')
 const {generatemsg,genlocmsg}=require('./utilities/msg.js')
 const {adduser,remuser,getuser,userinroom}=require('./utilities/user.js')
-
-
-
 const server=http.createServer(app)
 const io=socketio(server)
 const port=process.env.PORT||3000
