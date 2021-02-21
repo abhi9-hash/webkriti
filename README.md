@@ -1,5 +1,6 @@
 # chatkriti
-A BASIC DISCUSSION FORUM FOR WEBKRITI
+Code is currently being refactored.
+
 
 
 link to web app->>https://chatkriti.herokuapp.com/
